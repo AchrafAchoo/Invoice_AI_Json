@@ -1,0 +1,2 @@
+pdfminer.six>=20221105
+google-generativeai>=0.3.0
