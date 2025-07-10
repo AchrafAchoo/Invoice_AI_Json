@@ -133,36 +133,8 @@ The script automatically creates:
    - Check your internet connection
    - Verify API key permissions
 
-3. **PDF reading errors**:
-   - Ensure the PDF is not password-protected
-   - Check file path is correct
-   - Some scanned PDFs may not extract text properly
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Google Gemini AI for intelligent text analysis
-- PDFMiner community for PDF text extraction
-- French business community for invoice format insights
-
-## Support
-
-If you encounter any issues or have questions:
-1. Check the troubleshooting section
-2. Open an issue on GitHub
-3. Provide sample invoice (anonymized) and error logs
-
----
 
 **Note**: Keep your API keys secure and never commit them to public repositories!
